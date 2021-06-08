@@ -1,0 +1,122 @@
+body {
+    background: #ffffff;
+    font-family: 'Nunito Sans', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    margin: 0;
+
+ }
+
+.header {
+  position: absolute;
+  top: 23px;
+  left: 10%;
+  right: 10%;
+  width: 80%;
+  height: 81px;
+  background: #60c1Bd;
+  
+  border-radius: 100px;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-left: 2%;
+}
+
+h2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 35px;
+  line-height: 52px;
+  margin-top: 15px;
+  margin-left: 15px;
+  display: inline;
+}
+
+.nav {
+	display: inline;
+  position: relative;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 25%;
+  font-size: 15px;
+  word-spacing: 120px;
+  font-weight: 700;
+
+}
+
+.nav_link {
+  
+  color: #284854;
+  font-size: 18px;
+  text-decoration: none;
+  word-spacing: 0px;
+}
+
+
+.login {
+  margin: 0 6%;
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  border: 2px solid white;	
+}
+
+#home {
+  background: #284853;
+  background-size: cover;
+  background-position: center center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+  text-align: right;
+  
+}
+
+img {
+width: 412px;
+height: 450px;
+position: absolute;
+right: 18%;
+top: 35%;
+}
+
+.title{
+  margin: 0;
+  position: absolute;
+height: 204px;
+width: 712px;
+text-align: left;
+left: 15%;
+right: 0%;
+top: 25%;
+
+font-family: 'Roboto', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 85px;
+line-height: 102px;
+color: #8BC441;
+}
+
+.text{
+  margin: 0;
+  position: absolute;
+height: 112px;
+width: 542px;
+text-align: left;
+left: 15%;
+right: 0%;
+top: 55%;
+
+font-family: 'Nunito Sans', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 28px;
+color: #FFFFFF;
+}
